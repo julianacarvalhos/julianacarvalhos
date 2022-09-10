@@ -1,7 +1,9 @@
 ### Hi, I'm Juliana Carvalho!
 🔭 I’m currently working on Career Transition
 
-🌱 I’m currently learning Java 
+📚 Studying 1st semester of Systems Analysis and Development 
+
+👩‍💻 I’m currently learning Java 
 
 🤔 I’m looking for help with achieving my first job as a Junior BackEnd Developer
 
