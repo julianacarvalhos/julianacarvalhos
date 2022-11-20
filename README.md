@@ -1,32 +1,24 @@
-### Hi, I'm Juliana Carvalho!
-🔭 I’m currently working on Career Transition
+# 💫 About Me:
+Hi, I'm Juliana Carvalho!<br><br>😄 Pronouns: She/Her<br><br>🔭 I’m currently working on Career Transition<br><br>📚 Studying 1st semester of Systems Analysis and Development<br><br>👩‍💻 I’m currently learning Java<br><br>🤔 I’m looking for help with achieving my first job as a Junior BackEnd Developer<br><br>📫 How to reach me: contatojulianacarvalhos@gmail.com<br><br>
 
-📚 Studying 1st semester of Systems Analysis and Development 
 
-👩‍💻 I’m currently learning Java 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julianacarvalho11/) 
 
-🤔 I’m looking for help with achieving my first job as a Junior BackEnd Developer
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=julianacarvalhos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=julianacarvalhos&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacarvalhos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📫 How to reach me: contatojulianacarvalhos@gmail.com
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-😄 Pronouns: She/Her 
+---
+[![](https://visitcount.itsvg.in/api?id=julianacarvalhos&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://github.com/julianacarvalhos">
-  <img width="42%"src="https://github-readme-stats.vercel.app/api?username=julianacarvalhos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianacarvalhos&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juliana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
-  
-  ##
-  
-  <div> 
-    <a href = "mailto:contatojulianacarvalhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julianacarvalho11/") target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 ![Snake animation](https://github.com/julianacarvalhos/julianacarvalhos/blob/output/github-contribution-grid-snake.svg)
    
