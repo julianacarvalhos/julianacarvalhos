@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Juliana Carvalho!<br><br>😄 Pronouns: She/Her<br><br>🔭 I’m currently working on Career Transition<br><br>📚 Studying 1st semester of Systems Analysis and Development<br><br>👩‍💻 I’m currently learning Java<br><br>🤔 I’m looking for help with achieving my first job as a Junior BackEnd Developer<br><br>📫 How to reach me: contatojulianacarvalhos@gmail.com<br><br>
+Hi, I'm Juliana Carvalho!<br><br>😄 Pronouns: She/Her<br><br>🔭 I’m currently working on Career Transition<br><br>📚 Studying 1st semester of Systems Analysis and Development<br><br>👩‍💻 I’m currently learning Java<br><br>🤔 I’m looking for help with achieving my first job as a Junior BackEnd Developer<br><br>📫 How to reach me: juliana-carvalho11@hotmail.com<br><br>
 
 
 ## 🌐 Socials:
